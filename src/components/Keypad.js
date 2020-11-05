@@ -3,7 +3,10 @@ import React from 'react'
 
 const keypad = () => {
   return(
-    <div>keypad</div>
+    <div>
+    keypad
+    <input type="password" />
+    </div>
     )
   
 }
