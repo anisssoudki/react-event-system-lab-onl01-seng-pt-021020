@@ -2,7 +2,7 @@
 import React from 'react'
 
 const keypad = () => {
-  return(
+  return (
     
     <input type="password" />
     
